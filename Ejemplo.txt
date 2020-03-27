@@ -1,0 +1,5 @@
+S1: 'a'S | 'a' R
+S: S S 'c'
+S: S'b'|e
+A1: S'b'|e
+T: e 
