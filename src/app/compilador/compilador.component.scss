@@ -2,10 +2,41 @@ div {
     margin-top: 30px;
     border: solid 1px black;
     padding: 5px;
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     background: lightyellow;
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
+    float: left;
     }
+
+    #foo {
+        //margin-top: 30px;
+        //margin-left: auto;
+        border: solid 1px black;
+        margin: auto;
+        padding: 5px;
+        width: 50px;
+        height: 300px;
+        background: rgb(230, 255, 224);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        text-align: center;
+        float: left;
+        margin-left: 240px;
+        }
+
+        #fooo {
+            //margin-top: 30px;
+            //margin-left: auto;
+            border: solid 1px black;
+            margin: auto;
+            padding: 5px;
+            width: 50px;
+            height: 300px;
+            background-color:#F0FFFF;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            text-align: center;
+            }
